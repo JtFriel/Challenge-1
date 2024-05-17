@@ -24,6 +24,8 @@ body {
     color: #d9dcd6;
 }
 
+
+
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -73,6 +75,13 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+/* adding control to nav bar */
+#ngate {
+    color: red;
+    font-size: 27px;
+
 }
 
 .benefits {
